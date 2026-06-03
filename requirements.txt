@@ -4,3 +4,4 @@ pydantic
 sqlalchemy
 httpx
 pytest
+plotly
